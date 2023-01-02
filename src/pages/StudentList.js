@@ -36,8 +36,8 @@ const StudentList = () => {
               <th scope="col">Gender</th>
               <th scope="col">DOB</th>
               <th scope="col">Country</th>
-              <th scope="col">edit</th>
-              <th scope="col">delete</th>
+              <th scope="col">Edit</th>
+              <th scope="col">Delete</th>
             </tr>
           </thead>
           <tbody>
